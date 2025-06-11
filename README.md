@@ -1,0 +1,2 @@
+# practica
+Empezando con GitHub
